@@ -12,9 +12,10 @@ This repository contains various regression techniques and supporting components
 | 3    | Polynomial Regression             | [Polynomial Regression](./Polynomial%20Regression)                          | [Read Blog](https://www.dataspoof.info/post/polynomial-regression-in-r/) |
 | 4    | Ridge Regression                  | [Ridge Regression](./Ridge%20regression)                                    | [Read Blog](https://www.dataspoof.info/post/ridge-regression-in-r/)      |
 | 5    | Lasso Regression                  | [Lasso Regression](./Lasso%20Regression)                                    | [Read Blog](https://www.dataspoof.info/post/lasso-regression-in-r/)      |
-| 6    | Stepwise Regression               | [Stepwise Regression](./Stepwise%20Regression)                              | [Read Blog](https://www.dataspoof.info/post/stepwise-regression-in-python/)   |
-| 7    | Bayesian Linear Regression        | [Bayesian Linear Regression](./Bayesian%20Linear%20Regression)              | [Read Blog](https://www.dataspoof.info/post/bayesian-linear-regression-in-python/)   |
-| 8    | Generalized Linear Regression     | [Generalized Linear Regression](./Generalized%20Linear%20Regression)        | [Read Blog](https://www.dataspoof.info/post/generalized-linear-regression-in-python/)        |
+| 6    | Elastic Net Regression               | [Elasitc Net Regression](./Elastic%20Net%20Regression)                   | [Read Blog](https://www.dataspoof.info/post/elastic-net-regression-in-r/)   |
+| 7    | Stepwise Regression               | [Stepwise Regression](./Stepwise%20Regression)                              | [Read Blog](https://www.dataspoof.info/post/stepwise-regression-in-python/)   |
+| 8    | Bayesian Linear Regression        | [Bayesian Linear Regression](./Bayesian%20Linear%20Regression)              | [Read Blog](https://www.dataspoof.info/post/bayesian-linear-regression-in-python/)   |
+| 9    | Generalized Linear Regression     | [Generalized Linear Regression](./Generalized%20Linear%20Regression)        | [Read Blog](https://www.dataspoof.info/post/generalized-linear-regression-in-python/)        |
 
 ---
 
