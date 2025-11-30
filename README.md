@@ -18,6 +18,13 @@ This repository contains various regression techniques and supporting components
 | 9    | Generalized Linear Regression     | [Generalized Linear Regression](./Generalized%20Linear%20Regression)        | [Read Blog](https://www.dataspoof.info/post/generalized-linear-regression-in-python/)        |
 
 ---
+# Classification Models and Evaluation
+
+## 📘 Table of Contents
+
+| S.No | Regression Technique              | Folder Link                                                                 | Blog Link                                    |
+|------|-----------------------------------|-----------------------------------------------------------------------------|----------------------------------------------|
+| 1    | Logistic Regression               | [Logistic Regression](./LogisticRegression)                                 | [Read Blog](https://www.dataspoof.info/post/logistic-regression-from-scratch-in-python/) |
 
 ## 🛠️ Supporting Modules
 
