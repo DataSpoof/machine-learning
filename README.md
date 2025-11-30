@@ -24,15 +24,15 @@ This repository contains various regression techniques and supporting components
 
 | S.No | Classification Technique              | Folder Link                                  | Blog Link                                    |
 |------|-----------------------------------|--------------------------------------------------|----------------------------------------------|
-| 1    | Logistic Regression from Scratch  | [Logistic Regression](./Logistic%20Regression)   | [Read Blog](https://www.dataspoof.info/post/logistic-regression-from-scratch-in-python/) |
-| 2    | Decision Tree Classifier                    | Decision Tree               | [Read Blog]() |
-| 3    | Random Forest Classifier                    | Random Forest               | [Read Blog]() |
+| 1    | Logistic Regression from Scratch in Python  | [Logistic Regression](./Logistic%20Regression)   | [Read Blog](https://www.dataspoof.info/post/logistic-regression-from-scratch-in-python/) |
+| 2    | Decision Tree Classification in R           | Decision Tree               | [Read Blog](https://www.dataspoof.info/post/decision-tree-classification-in-r/) |
+| 3    | Random Forest Classifier in Python          | Random Forest               | [Read Blog](https://www.dataspoof.info/post/random-forest-algorithm-in-python/) |
 | 4    | XGBoost Algorithm                           | Boosting Algorithm          | [Read Blog]() |
 | 5    | AdaBoost Algorithm                          | Boosting Algorithm          | [Read Blog]() |
 | 6    | CatBoost Algorithm                          | Boosting Algorithm          | [Read Blog]() |
 | 7    | LightGBM Algorithm                          | Boosting Algorithm          | [Read Blog]() |
 | 8    | Gradient Boosting Algorithm                 | Boosting Algorithm          | [Read Blog]() |
-| 9    | Stacking Algorithm                          | Ensemble Learning           | [Read Blog]() |
+| 9    | Stacking Algorithm                          | Ensemble Learning           | [Read Blog](https://www.dataspoof.info/post/stacking-classifier-in-python/) |
 | 10   | Blending Algorithm                          | Ensemble Learning           | [Read Blog]() |
 | 11   | Voting Algorithm                            | Ensemble Learning           | [Read Blog]() |
 | 12   | K-Nearest Neighbors (KNN)                   | Instance-Based Learning     |  [Read Blog]() |
