@@ -32,7 +32,7 @@ This repository contains various regression techniques and supporting components
 | 6    | CatBoost Algorithm                          | Boosting Algorithm          | [Read Blog]() |
 | 7    | LightGBM Algorithm                          | Boosting Algorithm          | [Read Blog]() |
 | 8    | Gradient Boosting Algorithm                 | Boosting Algorithm          | [Read Blog]() |
-| 9    | Stacking Algorithm                          | [Stacking Classifier](./Stacking%20Classifier)           | [Read Blog](https://www.dataspoof.info/post/stacking-classifier-in-python/) |
+| 9    | Stacking Classifier                          | [Stacking Classifier](./Stacking%20Classifier)           | [Read Blog](https://www.dataspoof.info/post/stacking-classifier-in-python/) |
 | 10   | Blending Algorithm                          | Ensemble Learning           | [Read Blog]() |
 | 11   | Voting Algorithm                            | Ensemble Learning           | [Read Blog]() |
 | 12   | K-Nearest Neighbors (KNN)                   | Instance-Based Learning     |  [Read Blog]() |
