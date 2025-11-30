@@ -24,7 +24,7 @@ This repository contains various regression techniques and supporting components
 
 | S.No | Regression Technique              | Folder Link                                                                 | Blog Link                                    |
 |------|-----------------------------------|-----------------------------------------------------------------------------|----------------------------------------------|
-| 1    | Logistic Regression               | [Logistic Regression](./LogisticRegression)                                 | [Read Blog](https://www.dataspoof.info/post/logistic-regression-from-scratch-in-python/) |
+| 1    | Logistic Regression               | [Logistic Regression](./Logistic%20Regression)                             | [Read Blog](https://www.dataspoof.info/post/logistic-regression-from-scratch-in-python/) |
 
 ## 🛠️ Supporting Modules
 
